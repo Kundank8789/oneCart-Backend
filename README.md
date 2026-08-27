@@ -131,7 +131,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-**Kulbhushan Kumar**
+**Kundan Kumar**
 
 GitHub: https://github.com/Kundank8789
 
